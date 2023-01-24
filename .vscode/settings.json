@@ -4,8 +4,11 @@
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "file",
   "tailwindCSS.includeLanguages": {
-    "plaintext": "html"
+    "javascript": "javascript",
+    "plaintext": "html",
+    "html": "HTML"
   },
+  "tailwindCSS.classAttributes": ["class", "className", "ngClass"],
   "editor.quickSuggestions": {
     "strings": true
   }
